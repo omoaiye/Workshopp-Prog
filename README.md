@@ -14,8 +14,6 @@
 
 - **Contador de Moedas**: 🔢 Exibe o número de moedas coletadas até o momento.
 
-- **Tela de Vitória**: 🎉 Ao coletar todas as 10 moedas, o jogador é saudado com uma mensagem de vitória.
-
 ## Como Jogar
 
 1. **Início**: ⏳ Pressione a tecla "Iniciar" para começar o jogo.
@@ -26,7 +24,7 @@
 
 4. **Evitar Buracos**: 🚫 Cuidado com os buracos no chão; se cair, o jogo reinicia.
 
-5. **Objetivo**: 🎯 Colete todas as 10 moedas para vencer o jogo.
+5. **Objetivo**: 🎯 Colete todas as 10 moedas.
 
 ## Tecnologias Utilizadas
 
