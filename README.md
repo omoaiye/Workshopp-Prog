@@ -39,5 +39,3 @@
 2. **Importação do Projeto**: 📂 Abra o Unity Hub, clique em "Adicionar" e selecione a pasta do projeto.
 
 3. **Execução**: ▶️ Clique em "Play" no Unity para iniciar o jogo.
-
-## Contribuiç
